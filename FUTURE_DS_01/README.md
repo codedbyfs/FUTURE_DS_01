@@ -8,9 +8,9 @@ This task focuses on analyzing e-commerce sales data and building an interactive
 The goal is to provide data-driven business recommendations for growth and efficiency.
 
 ## 📂 Files Included
- Dataset.xlsx – Raw e-commerce sales data
+ Power BI Dataset.xlsx – Raw e-commerce sales data
 
- Dashboard.pbix – Power BI dashboard file
+ Business sales dashboard.pbix – Power BI dashboard file
 
 ## 🔑 Key Insights
 - Technology emerged as the top-performing category, followed by Office Supplies.
